@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bdebf20-be03-4f22-ac31-ec8f61429ad0" name="Changes" comment="homework1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/MainClassLesson2.java" afterDir="false" />
+    <list default="true" id="2bdebf20-be03-4f22-ac31-ec8f61429ad0" name="Changes" comment="Урок 2.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/homework2/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/homework2/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/homework2/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/homework2/task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,33 +57,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainClassLesson2">
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.MainClass" />
-      <module name="exeptions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClassFromLesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.homework.MainClassFromLesson1" />
-      <module name="exeptions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson1.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.task3">
     <configuration name="MainClassLesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson2.MainClassLesson2" />
       <module name="exeptions" />
@@ -93,11 +71,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.homework2.task1" />
+      <module name="exeptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson2.homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.homework2.task2" />
+      <module name="exeptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson2.homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.homework2.task3" />
+      <module name="exeptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson2.homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.homework2.task4" />
+      <module name="exeptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson2.homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task3" />
+        <item itemvalue="Application.task2" />
+        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.task4" />
         <item itemvalue="Application.MainClassLesson2" />
-        <item itemvalue="Application.MainClassFromLesson1" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681897280242</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Урок 2.">
+      <created>1682065180632</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682065180632</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson1, task1" />
     <MESSAGE value="lesson1, task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson1, task2" />
+    <MESSAGE value="Урок 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 2." />
   </component>
 </project>
