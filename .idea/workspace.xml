@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bdebf20-be03-4f22-ac31-ec8f61429ad0" name="Changes" comment="Домашняя работа к 2 уроку">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/MainClassLesson3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/ex2.java" afterDir="false" />
+    <list default="true" id="2bdebf20-be03-4f22-ac31-ec8f61429ad0" name="Changes" comment="Урок 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/homework/MainClassFrom3Lesson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lesson2" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
@@ -54,7 +53,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ex2">
+  <component name="RunManager" selected="Application.MainClassFrom3Lesson">
+    <configuration name="MainClassFrom3Lesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.homework.MainClassFrom3Lesson" />
+      <module name="exeptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson3.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainClassLesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson3.MainClassLesson3" />
       <module name="exeptions" />
@@ -74,19 +86,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.homework2.task1" />
-      <module name="exeptions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson2.homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClassFrom3Lesson" />
         <item itemvalue="Application.ex2" />
         <item itemvalue="Application.MainClassLesson3" />
         <item itemvalue="Application.task3" />
         <item itemvalue="Application.task2" />
-        <item itemvalue="Application.task1" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682065180632</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Урок 3">
+      <created>1682769980287</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682769980287</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +184,7 @@
     <MESSAGE value="lesson1, task1" />
     <MESSAGE value="lesson1, task2" />
     <MESSAGE value="Урок 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Урок 2." />
+    <MESSAGE value="Урок 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 3" />
   </component>
 </project>
